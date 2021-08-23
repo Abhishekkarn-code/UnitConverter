@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/cm_to_m"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:onClick="sendMessage"
+        android:text="@string/centimeter_to_meter"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/m_to_cm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:onClick="sendMessage"
+        android:text="@string/meter_to_centimeter"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/kg_to_g"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:onClick="sendMessage"
+        android:text="@string/kilogram_to_gram"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/g_to_Kg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:onClick="sendMessage"
+        android:text="@string/kilogram_to_gram"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/C_to_F"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:onClick="sendMessage"
+        android:text="@string/celsius_to_fahrenheit"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/F_to_C"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:onClick="sendMessage"
+        android:text="@string/fahrenheit_to_celsius"
+        tools:ignore="UsingOnClickInXml" />
+</LinearLayout>
