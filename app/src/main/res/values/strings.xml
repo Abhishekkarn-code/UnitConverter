@@ -9,5 +9,7 @@
     <string name="celsius_to_fahrenheit">CELSIUS TO FAHRENHEIT</string>
     <string name="fahrenheit_to_celsius">FAHRENHEIT TO CELSIUS</string>
     <string name="go_back">Go back</string>
+    <string name="enter_value">Enter value</string>
+    <string name="result">Result</string>
 
 </resources>
