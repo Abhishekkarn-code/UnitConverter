@@ -11,7 +11,6 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:onClick="sendMessage"
         android:text="@string/centimeter_to_meter"
         tools:ignore="UsingOnClickInXml" />
 
@@ -21,7 +20,6 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:onClick="sendMessage"
         android:text="@string/meter_to_centimeter"
         tools:ignore="UsingOnClickInXml" />
 
@@ -31,7 +29,6 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:onClick="sendMessage"
         android:text="@string/kilogram_to_gram"
         tools:ignore="UsingOnClickInXml" />
 
@@ -41,7 +38,6 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:onClick="sendMessage"
         android:text="@string/kilogram_to_gram"
         tools:ignore="UsingOnClickInXml" />
 
@@ -51,7 +47,6 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:onClick="sendMessage"
         android:text="@string/celsius_to_fahrenheit"
         tools:ignore="UsingOnClickInXml" />
 
@@ -61,7 +56,6 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:onClick="sendMessage"
         android:text="@string/fahrenheit_to_celsius"
         tools:ignore="UsingOnClickInXml" />
 </LinearLayout>
