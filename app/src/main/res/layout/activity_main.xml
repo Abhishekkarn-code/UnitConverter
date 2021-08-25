@@ -58,4 +58,7 @@
         android:layout_marginRight="10dp"
         android:text="@string/fahrenheit_to_celsius"
         tools:ignore="UsingOnClickInXml" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
 </LinearLayout>
